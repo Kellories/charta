@@ -7,4 +7,6 @@ This is my own take on a E-card Project I saw recently. I decided to take this o
 
 Writing logic / Using a library to implement drag and drop components that dynamically update a state and saving templates.
 
+Using Bun as a package manager!
+
 ### Let's pray.
